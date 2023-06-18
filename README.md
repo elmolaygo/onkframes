@@ -1,3 +1,3 @@
 # onkframes
 
-## a repository of my FB page ONK Frames In Order
+## The repository of my FB page ONK Frames In Order
